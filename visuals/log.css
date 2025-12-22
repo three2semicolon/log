@@ -1,0 +1,63 @@
+@font-face {
+    font-family: 'village';
+    src: url('fonts/Village-wLn3.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'madieroger';
+    src: url('fonts/Madie\ Roger.otf') format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+:root {
+    --bg: #e9d59f;
+    --ink: #d15300;
+}
+
+body {
+    background-color: var(--bg);
+    color: var(--ink);
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    font-family: 'madieroger', serif;
+}
+
+.melt-container {
+    position: relative;
+    display: inline-block;
+    font-family: 'madieroger', serif;
+    font-size: 6rem;
+    line-height: 1;
+    white-space: pre;
+    letter-spacing: 0em;
+}
+
+.source-text {
+    position: relative;
+    z-index: 2;
+}
+
+.drip-well {
+    position: absolute;
+    top: 0;
+    left: 0;
+    z-index: 1;
+}
+
+.drip-slice {
+    position: absolute;
+    left: 0;
+    white-space: nowrap;
+    /* only show the bottom 2% of the letter */
+    clip-path: inset(60% 0 0 0); 
+    pointer-events: none;
+    /* cant copy text */
+    user-select: none;
+}
