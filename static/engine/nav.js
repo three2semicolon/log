@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const loadPage = async (pageName, forcePost = false) => {
         const contentArea = document.querySelector('.content');
         const isPost = forcePost || (pageName !== 'about' && pageName !== 'directory');
-        const folder = isPost ? 'log/generated-html' : 'pages';
+        const folder = isPost ? 'static/log/generated-html' : 'static/pages';
         const targetFile = `${folder}/${pageName}.html`;
 
         try {
