@@ -1,63 +1,285 @@
-@font-face {
-    font-family: 'village';
-    src: url('fonts/Village-wLn3.ttf') format('truetype');
-    font-weight: normal;
-    font-style: normal;
-}
+/* font def */
+    @font-face {
+        font-family: 'village';
+        src: url('fonts/Village-wLn3.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+    }
+    @font-face {
+        font-family: 'madieroger';
+        src: url('fonts/Madie\ Roger.otf') format('opentype');
+        font-weight: normal;
+        font-style: normal;
+    }
+    @font-face {
+        font-family: 'spacegrotesk';
+        src: url('fonts/SpaceGrotesk.ttf') format('truetype');
+        font-weight: normal;
+        font-style: normal;
+    }
 
-@font-face {
-    font-family: 'madieroger';
-    src: url('fonts/Madie\ Roger.otf') format('opentype');
-    font-weight: normal;
-    font-style: normal;
-}
+/* base stuff */
+    :root {
+        --cream: #f5e1b2;
+        --orange: #d15a00;
+        --dark-orange: #a34600;
+        --ink: #3c1e00;
+        --light-cream: #fff8e1;
+        --voices: #007acc;
+        --recipes: #cc007a;
+        --visualists: #7acc00;
+        --reviews: #cc7a00;
+        --general: #800080;
+    }
 
-:root {
-    --bg: #e9d59f;
-    --ink: #d15300;
-}
+    body {
+        background-color: var(--cream);
+        color: var(--ink);
+        margin: 0;
+        padding: 2rem;
+        font-family: 'spacegrotesk', serif;
+    }
 
-body {
-    background-color: var(--bg);
-    color: var(--ink);
-    margin: 0;
+/* header*/
+#header {
+    margin-bottom: 2rem;
+    position: relative;
     display: flex;
     flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    height: 100vh;
-    font-family: 'madieroger', serif;
 }
 
-.melt-container {
+    #title {
+        margin: 0;
+    }
+
+    #tagline {
+        margin: 3rem 0 0 0.5rem;
+        color: var(--orange);
+        font-size: 1.1rem;
+    }
+
+    /* blob */
+    #infected {
+        position: fixed;
+        top: 0;
+        right: 0;
+        width: 8rem; 
+        height: 8rem;
+        margin-right: 2rem;
+        z-index: 1000;
+        pointer-events: none;
+    }
+
+    #infected-svg {
+        width: 100%;
+        height: 100%;
+    }
+
+
+/* melt */
+.melt { font-size: 4rem; margin: 0; color: var(--orange); }
+    .melt-container {
+        position: relative;
+        display: inline-block;
+        font-family: 'madieroger', serif;
+        font-size: 6rem;
+        line-height: 1;
+        white-space: pre;
+        letter-spacing: 0em;
+    }
+    .source-text {
+        position: relative;
+        z-index: 2;
+    }
+    .drip-well {
+        position: absolute;
+        top: 0;
+        left: 0;
+        z-index: 1;
+    }
+    .drip-slice {
+        position: absolute;
+        left: 0;
+        white-space: nowrap;
+        clip-path: inset(60% 0 0 0); 
+        pointer-events: none;
+        user-select: none;
+    }
+
+/* infected circle */
+.infected-container {
+    width: 250px;
+    height: 250px;
+    margin: 40px auto;
+    overflow: visible;
+}
+    #infected-svg {
+        width: 100%;
+        height: 100%;
+        overflow: visible;
+    }
+    #spike-path {
+        transition: transform 0.1s ease-out;
+    }
+
+/* nav */
+a {
+    color: var(--orange);
+    text-decoration: none;
+    transition: opacity 0.2s;
+}
+a:hover { opacity: 0.8; }
+.active {
+    font-weight: bold;
+}
+.nav {
+    position: fixed;
+    top: 200px; /* adjusted to sit below the infected blob */
+    right: 40px;
+    display: flex;
+    gap: 1.5rem;
+    z-index: 100;
+}
+
+/* categories */
+#directory-controls {
     position: relative;
-    display: inline-block;
-    font-family: 'madieroger', serif;
-    font-size: 6rem;
-    line-height: 1;
-    white-space: pre;
-    letter-spacing: 0em;
 }
 
-.source-text {
-    position: relative;
-    z-index: 2;
+    #directory-menu {
+        display: none; 
+        flex-direction: column;
+        position: absolute;
+        top: 1.5rem;
+        left: 0;
+        background: var(--orange);
+        border-radius: 8px;
+        padding: 0.5rem 0;
+        min-width: 120px;
+        z-index: 100;
+        box-shadow: 6px 6px 0px var(--ink);
+    }
+
+    #directory-menu.open {
+        display: flex;
+    }
+
+    #directory-menu a {
+        color: var(--cream) !important;
+        padding: 0.4rem 1rem;
+        font-size: 0.9rem;
+    }
+
+    #directory-menu a:hover {
+        background: var(--dark-orange);
+    }
+
+/* post entries */
+.post-entry {
+    border: 2px solid var(--orange);
+    border-radius: 15px;
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+    background: var(--light-cream);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, background-color 0.2s ease;
+    /* clickable cursor */
+    cursor: pointer;
 }
 
-.drip-well {
-    position: absolute;
-    top: 0;
-    left: 0;
-    z-index: 1;
+    .post-entry:hover { 
+        /* transform: translateX(5px); */
+        background-color: rgba(255, 85, 0, 0.05);
+        box-shadow: 6px 6px 0px var(--ink); 
+    }
+
+    .post-meta { font-weight: bold; margin-bottom: 0.5rem; }
+
+/* music player */
+#music-player {
+    position: fixed;
+    bottom: 2rem;
+    right: 2rem;
+    background: var(--orange);
+    padding: 1rem;
+    border-radius: 15px;
+    width: 300px;
+    box-shadow: 10px 10px 0px var(--ink);
+    color: var(--cream);
+    z-index: 2000;
+    transition: all 0.3s ease; /* smooth height transition */
 }
 
-.drip-slice {
-    position: absolute;
-    left: 0;
-    white-space: nowrap;
-    /* only show the bottom 2% of the letter */
-    clip-path: inset(60% 0 0 0); 
-    pointer-events: none;
-    /* cant copy text */
-    user-select: none;
+    /* header area */
+    #music-player h1 { 
+        color: var(--cream); 
+        font-size: 1.2rem; 
+        margin: 0; 
+        cursor: pointer;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+
+    #music-player h1::after {
+        content: '▼';
+        font-size: 0.8rem;
+        transition: transform 0.3s;
+    }
+
+    #music-player.minimized h1::after {
+        transform: rotate(-90deg);
+    }
+    /* minimized state */
+    #music-player.minimized {
+        padding-bottom: 1rem;
+    }
+
+    #music-player.minimized #player {
+        max-height: 0;
+        opacity: 0;
+        margin-top: 0;
+        pointer-events: none;
+        border: none;
+    }
+
+    #player {
+        width: 100%;
+        border: var(--ink) 3px solid;
+        border-radius: 10px;
+        max-height: 20rem;
+        overflow-y: scroll;
+        overflow-x: hidden;
+        margin-top: 10px;
+        transition: opacity 0.2s, max-height 0.3s;
+    }
+
+.page {
+    border: 2px solid var(--orange);
+    border-radius: 15px;
+    padding: 1.5rem;
+    margin-bottom: 1rem;
+    background: var(--light-cream);
+    transition: transform 0.2s ease;
 }
+
+/* post content */
+.cat-general { color: var(--general); }
+.cat-voices { color: var(--voices); }
+.cat-recipes { color: var(--recipes); }
+.cat-visualists { color: var(--visualists); }
+.cat-reviews { color: var(--reviews); }
+    .p-cat {
+        margin-right: 2rem;
+    }
+    .p-title { 
+        color: var(--ink); /* the bold & ink color you wanted */
+        text-decoration: none;
+    }
+
+    .post-entry {
+        margin-bottom: 20px;
+        padding: 15px;
+        border: 1px solid var(--orange); /* matching your UI boxes */
+        border-radius: 8px;
+    }

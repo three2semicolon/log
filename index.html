@@ -1,1 +1,55 @@
-hello world
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>words*</title>
+    <link rel="stylesheet" href="/visuals/log.css">
+    <script src="/visuals/design.js" defer></script>
+    <script src="/engine/nav.js" defer></script>
+    <script src="/engine/jukebox.js" defer></script>
+    <link rel="icon" type="image/png" href="/visuals/favicon.png">
+</head>
+
+<body> 
+    <div id="header">
+        <h1 id="title" class="melt">words*</h1>
+        <div id="infected" class="infected-container">
+            <svg id="infected-svg" viewBox="0 0 200 200">
+                <path id="spike-path" fill="var(--orange)" />
+            </svg>
+        </div>
+        <p id="tagline">by <a href="https://linktr.ee/prod3two" target="_blank" style="color: var(--orange); font-weight: bold;">3two</a>, a place for my thoughts</p>
+    </div>
+
+    <div class="nav">
+        <div id="nav-context">
+            <div id="directory-controls">
+                <a href="#" id="filter-trigger" class="active"> directory [all]</a>
+                <div id="directory-menu">
+                    <a href="/" data-filter="all">all</a>
+                    <a href="/" data-filter="general">general</a>
+                    <a href="/" data-filter="voices">voices</a>
+                    <a href="/" data-filter="visualists">visualists</a>
+                    <a href="/" data-filter="reviews">reviews</a>
+                    <a href="/" data-filter="recipes">recipes</a>
+                </div>
+            </div>
+        </div>
+        <a href="about.html" id="about-link">about</a>
+    </div>
+
+    <div class="content"></div>
+
+    <div id="music-player" class="minimized">
+        <h1>soundtrack</h1>
+        <div id="player">
+            <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A2163998789&color=%23ff5500&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+            <div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;">
+                <a href="https://soundcloud.com/prod3two" title="3two" target="_blank" style="color: #cccccc; text-decoration: none;">3two</a>
+            ·   <a href="https://soundcloud.com/prod3two/sets/words-soundtrack" title="words soundtrack" target="_blank" style="color: #cccccc; text-decoration: none;">words soundtrack</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

@@ -1,0 +1,155 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/visuals/log.css">
+    <title>log // 3d spinner chamber</title>
+    <style>
+        #canvas-container {
+            width: 30px;
+            height: 30px;
+            display: block;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="canvas-container"></div>
+
+    <script type="importmap">
+        {
+            "imports": {
+                "three": "https://unpkg.com/three@0.160.0/build/three.module.js",
+                "three/addons/": "https://unpkg.com/three@0.160.0/examples/jsm/"
+            }
+        }
+    </script>
+
+    <script type="module">
+        import * as THREE from 'three';
+        import { FontLoader } from 'three/addons/loaders/FontLoader.js';
+        import { TextGeometry } from 'three/addons/geometries/TextGeometry.js';
+
+        // --- config ---
+        const INK_COLOR = 0xd15300; // your site's hex color
+        const BG_COLOR = 0x000000; //transparent background
+        
+        // --- setup the scene ---
+        const container = document.getElementById('canvas-container');
+        const scene = new THREE.Scene();
+        // add some atmospheric fog for depth
+        scene.fog = new THREE.FogExp2(BG_COLOR, 0.03);
+
+        // camera shot
+        const camera = new THREE.PerspectiveCamera(75, window.innerWidth / window.innerHeight, 0.1, 1000);
+        camera.position.z = 30;
+
+        // renderer (the engine)
+        const renderer = new THREE.WebGLRenderer({ antialias: true, alpha: true });
+        renderer.setSize(window.innerWidth, window.innerHeight);
+        renderer.setPixelRatio(window.devicePixelRatio);
+        container.appendChild(renderer.domElement);
+
+        // --- lighting (crucial for 3d depth) ---
+        const ambientLight = new THREE.AmbientLight(0xffffff, 0.4); // soft overall light
+        scene.add(ambientLight);
+
+        const pointLight = new THREE.PointLight(0xffffff, 1);
+        pointLight.position.set(25, 50, 25);
+        scene.add(pointLight);
+
+        // --- load font & create mesh ---
+        let textMesh;
+        const loader = new FontLoader();
+        // loading a standard bold font from three.js examples for the prototype
+        loader.load('https://unpkg.com/three@0.160.0/examples/fonts/helvetiker_bold.typeface.json', function (font) {
+
+            const geometry = new TextGeometry('3!', {
+                font: font,
+                size: 15,      // height of the letters
+                height: 4,     // depth of the extrusion (how chunky it is)
+                curveSegments: 12,
+                bevelEnabled: true, // rounded edges for that retro plastic look
+                bevelThickness: 1,
+                bevelSize: 0.5,
+                bevelOffset: 0,
+                bevelSegments: 5
+            });
+
+            // center the geometry so it spins around its middle, not bottom-left
+            geometry.center();
+
+            // the material determines how it reacts to light
+            // MeshStandardMaterial gives it a nice matte finish
+            const material = new THREE.MeshStandardMaterial({ 
+                color: INK_COLOR,
+                roughness: 0.4,
+                metalness: 0.1
+            });
+
+            textMesh = new THREE.Mesh(geometry, material);
+            scene.add(textMesh);
+        });
+
+
+        // --- interaction inputs ---
+        let mouseX = 0;
+        let mouseY = 0;
+        let targetRotationX = 0;
+        let targetRotationY = 0;
+
+        const windowHalfX = window.innerWidth / 2;
+        const windowHalfY = window.innerHeight / 2;
+
+        document.addEventListener('mousemove', (event) => {
+            // normalize mouse position from center of screen (-1 to +1 range)
+            mouseX = (event.clientX - windowHalfX) / windowHalfX;
+            mouseY = (event.clientY - windowHalfY) / windowHalfY;
+        });
+
+        // support touch devices
+        document.addEventListener('touchmove', (event) => {
+            if (event.touches.length > 0) {
+                mouseX = (event.touches[0].clientX - windowHalfX) / windowHalfX;
+                mouseY = (event.touches[0].clientY - windowHalfY) / windowHalfY;
+            }
+        }, { passive: false });
+
+
+        // --- animation loop (the heartbeat) ---
+        function animate() {
+            requestAnimationFrame(animate);
+
+            if (textMesh) {
+                // 1. constant idle rotation
+                textMesh.rotation.y += 0.005;
+                textMesh.rotation.x += 0.002;
+
+                // 2. interactive influence
+                // calculate where we want the object to tilt based on mouse position
+                targetRotationY = mouseX * 0.5; // multiplied to limit tilt amount
+                targetRotationX = mouseY * 0.5;
+
+                // smooth interpolation (lerp) towards the target tilt
+                // this makes the movement feel heavy and smooth, not jerky
+                textMesh.rotation.x += (targetRotationX - textMesh.rotation.x) * 0.05;
+                // we add to the Y rotation so it tilts *while* spinning
+                textMesh.rotation.y += (targetRotationY) * 0.05; 
+            }
+
+            renderer.render(scene, camera);
+        }
+
+        // handle window resizing keep things looking sharp
+        window.addEventListener('resize', () => {
+            camera.aspect = window.innerWidth / window.innerHeight;
+            camera.updateProjectionMatrix();
+            renderer.setSize(window.innerWidth, window.innerHeight);
+        });
+
+        animate();
+
+    </script>
+</body>
+</html>
