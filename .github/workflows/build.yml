@@ -3,7 +3,7 @@ on:
   push:
     branches: [ main ]
     paths:
-      - 'log/live/**'
+      - 'static/log/live/**'
 
 jobs:
   build:
@@ -19,6 +19,6 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "github-actions"
-          git add pages/directory.html log/generated-html/*.html
+          git add static/pages/directory.html static/log/generated-html/*.html
           git commit -m "system: re-indexed directory and generated post fragments" || echo "no changes"
           git push
