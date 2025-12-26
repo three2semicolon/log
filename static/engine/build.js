@@ -77,6 +77,8 @@ const build = () => {
             <div class="post-meta">
                 <span class="p-date" style="color:var(--orange)">[${p.displayDate}]</span>
                 <span class="p-cat cat-${p.category}">[${p.category}]</span>
+            </div>
+            <div class="post-meta">
                 <a href="static/log/generated-html/${p.shorthand}.html" class="pja-link p-title"><b>${p.title}</b></a>
             </div>
             <div class="post-excerpt">${p.excerpt || ''}</div>

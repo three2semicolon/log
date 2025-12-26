@@ -1,0 +1,5 @@
+.obsidian/themes/*
+.obsidian/workspace.json
+.obsidian/app.json
+.DS_Store
+Thumbs.db

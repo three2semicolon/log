@@ -133,8 +133,8 @@ a:hover { opacity: 0.8; }
     font-weight: bold;
 }
 .nav {
-    position: fixed;
-    top: 200px; /* adjusted to sit below the infected blob */
+    position: absolute;
+    top: 12rem;
     right: 40px;
     display: flex;
     gap: 1.5rem;
@@ -202,7 +202,7 @@ a:hover { opacity: 0.8; }
     background: var(--orange);
     padding: 1rem;
     border-radius: 15px;
-    width: 300px;
+    width: 15rem;
     box-shadow: 10px 10px 0px var(--ink);
     color: var(--cream);
     z-index: 2000;
@@ -283,3 +283,24 @@ a:hover { opacity: 0.8; }
         border: 1px solid var(--orange); /* matching your UI boxes */
         border-radius: 8px;
     }
+
+/* responsive */
+@media (max-width: 600px) {
+    .nav {
+        top: 13rem;
+    }
+    #header {
+        margin-bottom: 4rem;
+    }
+    .melt-container {
+        font-size: 3.5rem;
+    }
+    #tagline {
+        font-size: 0.8rem;
+    }
+    #infected {
+        width: 6rem; 
+        height: 6rem;
+        margin-right: 1rem;
+    }
+}
