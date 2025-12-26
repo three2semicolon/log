@@ -5,7 +5,7 @@
   "main": "build.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "node engine/build.js"
+    "build": "node static/engine/build.js"
   },
   "keywords": [],
   "author": "",
