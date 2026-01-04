@@ -9,7 +9,6 @@ NOTE: run locally via node, install dependencies.
 const fs = require('fs');
 const path = require('path');
 const matter = require('gray-matter');
-const { marked } = require('marked');
 
 const LIVE_DIR = path.join(__dirname, '../log/live');
 const GEN_DIR = path.join(__dirname, '../log/generated-html');
