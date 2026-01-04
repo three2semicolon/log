@@ -55,16 +55,19 @@ the font for the title is [Madie Roger](https://blogfonts.com/madie-roger.font) 
 
 GitHub for the nerds: [github.com/three2semicolon/log](https://github.com/three2semicolon/log/)
 
-This site is built to be "static", in the sense that there is no server (node, react, flask, etc) running in the backend. Every page you view is static at load time, as this site was originally built for GitHub page hosting.
+This site is built to be "static", in the sense that there is no server (node, react, flask, etc) running constantly to host the site. Every page you view is a static html file at load time, as this site was originally built for GitHub page hosting.
 
-I write all my blogs in [Obsidian](https://obsidian.md/) as .md files. I run a script (either manually or on a GitHub push) that will generate the html for each post. these will all get loaded to build the pages you view.
+I write all my blogs in [Obsidian](https://obsidian.md/) as .md files. I run a small js script (either manually or triggered via a GitHub push) that will generate the .html for each post. These are the pages you view (like the one you're on now).
 
 
 ---
-# upcoming feature list or things i need to do that I haven't done yet
+# rolling todo / feature list for me to implement soon
 
 - RSS subscriptions
 - substack integration - i want these posts to also go on substack when it makes sense. might automate, prob won't. im lazy
+- blob to return to top (thanks manashield)
+- update about me with socials, esp github (also thanks manashield)
+- words click links back to directory
 
 ---
 # wrap up
