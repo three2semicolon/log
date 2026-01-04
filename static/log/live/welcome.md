@@ -7,16 +7,20 @@ excerpt: welcome! this is an introductory post to explain what this site is and 
 ---
 # what is this? where am i?
 
-This is a platform that exists purely for me to journal and document ideas, research, opinions, reviews, and more. I've found in the past that writing out my thoughts and expanding upon them helps the world feel more real, as it forces me to sit with my thoughts and opinions more meaningfully.
+This is a platform for me to journal and document ideas, research, opinions, reviews, and more. I've found in the past that writing out my thoughts and expanding upon them helps the world feel more real, as it forces me to sit with my thoughts and opinions more meaningfully. I've wanted ways to deep-dive or over-explain things i'd like to talk about without spamming someone's DMs, this seems like the best medium.
 
 Should help me from doomscrolling too. Times are weird rn.
 
-These posts/entries are meant to change over time. I'll try not to delete anything (to preserve the integrity of my thoughts or whatever), but i'll def add onto things or move them around. This was birthed in selfishness and will live in selfishness. 
+---
 
-I've wanted ways to dive into things and over-explain without bothering my friends or family for a while, this seems like the best medium. Thanks.
+To commemorate the year and month that I started this project. Below is my most played song of 2025 according to my Spotify Wrapped:
+
+[1800 by Negro Impacto](https://www.youtube.com/watch?v=FPNIhrJyfms)
+
+<iframe height="312" width="560" src="https://www.youtube.com/embed/FPNIhrJyfms?si=mjMgefkDsjsQEXHF" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
-# inspirations/credits 
+# inspirations & credit 
 
 ## i. styling
 the fonts and colors are inspired by two main things:
@@ -45,7 +49,7 @@ the font for the title is [Madie Roger](https://blogfonts.com/madie-roger.font) 
 ---
 # tech stack
 
-GitHub for the nerds: [(github.com/three2semicolon/log](https://github.com/three2semicolon/log/)
+GitHub for the nerds: [github.com/three2semicolon/log](https://github.com/three2semicolon/log/)
 
 This site is built to be "static", in the sense that there is no server (node, react, flask, etc) running in the backend. Every page you view is static at load time, as this site was originally built for GitHub page hosting.
 

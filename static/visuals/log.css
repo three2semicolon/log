@@ -279,10 +279,22 @@ a:hover { opacity: 0.8; }
     max-width: 100%;
     height: auto;
     max-height: 30rem;
+    border: 2px solid var(--orange);
+}
+
+.page iframe {
+    max-width: 100%;
+    border: 2px solid var(--orange);
 }
 
 .page a{
     color: var(--orange); font-weight: bold;
+}
+
+.page hr {
+    border: none;
+    border-top: 2px solid var(--orange);
+    margin: 1rem 0;
 }
 
 /* post content */
