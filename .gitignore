@@ -1,5 +1,6 @@
-log/.obsidian/themes/*
-log/.obsidian/workspace.json
-log/.obsidian/app.json
-log/.obsidian/workspace.json
+static/log/.obsidian/themes/*
+static/log/.obsidian/workspace.json
+static/log/.obsidian/app.json
+static/log/.obsidian/workspace.json
 node_modules/
+static/log/.stfolder

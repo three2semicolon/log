@@ -1,10 +1,64 @@
 ---
-title: welcome to words*
+title: intro to words*
 date: 2025-12-24
 category: general
 shorthand: intro
 excerpt: welcome! this is an introductory post to explain what this site is and why it exists
 ---
-# context
+# what is this? where am i?
 
-hello worlddddd
+This is a platform that exists purely for me to journal and document ideas, research, opinions, reviews, and more. I've found in the past that writing out my thoughts and expanding upon them helps the world feel more real, as it forces me to sit with my thoughts and opinions more meaningfully.
+
+Should help me from doomscrolling too. Times are weird rn.
+
+These posts/entries are meant to change over time. I'll try not to delete anything (to preserve the integrity of my thoughts or whatever), but i'll def add onto things or move them around. This was birthed in selfishness and will live in selfishness. 
+
+I've wanted ways to dive into things and over-explain without bothering my friends or family for a while, this seems like the best medium. Thanks.
+
+---
+# inspirations/credits 
+
+## i. styling
+the fonts and colors are inspired by two main things:
+
+the cover art to Thee Sacred Souls's 2021 single [When I See You Again](https://theesacredsouls.bandcamp.com/album/will-i-see-you-again): 
+
+![When I See You Again](https://f4.bcbits.com/img/a3932023307_16.jpg)
+
+and a lot of what monte booker has going circa 2025. specifically, some of his obs setup for his [twitch streams](https://www.twitch.tv/montebooker):
+
+![monte stream](https://three2semicolon.github.io/log/static/visuals/img/inspo_montestream.PNG)
+
+*my bad for the mid-sentence screenshot, monte*
+
+the font for the title is [Madie Roger](https://blogfonts.com/madie-roger.font) (headers too if i remember to code that). rest of the site uses [Space Grotesk](https://fonts.google.com/specimen/Space+Grotesk) as its main font. there's a bit of processing done on the header to get that "drip" psychedelic effect, see the sites [GitHub](https://github.com/three2semicolon/log/) for more info there
+
+
+## ii. blogs/sites:
+- my friend manashield's personal website - [https://manashield.neocities.org/](https://manashield.neocities.org/)
+- my friend suma's substack - [https://substack.com/@sumamovva](https://substack.com/@sumamovva)
+- j coles personal blog site - [https://www.inevitable.live/algorithm](https://www.inevitable.live/algorithm)
+- bill wurtz q&a and notebooks section of his website - [https://billwurtz.com/](https://billwurtz.com/)
+- many other personal blogs, blogsites, portfolio sites, etc.
+- tumblr, which i never actually used
+
+---
+# tech stack
+
+GitHub for the nerds: [(github.com/three2semicolon/log](https://github.com/three2semicolon/log/)
+
+This site is built to be "static", in the sense that there is no server (node, react, flask, etc) running in the backend. Every page you view is static at load time, as this site was originally built for GitHub page hosting.
+
+I write all my blogs in [Obsidian](https://obsidian.md/) as .md files. I run a script (either manually or on a GitHub push) that will generate the html for each post. these will all get loaded to build the pages you view.
+
+
+---
+# upcoming feature list or things i need to do that I haven't done yet
+
+- RSS subscriptions
+- substack integration - i want these posts to also go on substack when it makes sense. might automate, prob won't. im lazy
+
+---
+# wrap up
+
+thanks for checking out the site, hope something on here resonates or interests you. don't hesitate to hit me up or follow me elsewhere via the [about page](https://three2semicolon.github.io/log/?p=about)

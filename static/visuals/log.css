@@ -254,6 +254,7 @@ a:hover { opacity: 0.8; }
         transition: opacity 0.2s, max-height 0.3s;
     }
 
+    /* post sections */
 .page {
     border: 2px solid var(--orange);
     border-radius: 15px;
@@ -261,6 +262,27 @@ a:hover { opacity: 0.8; }
     margin-bottom: 1rem;
     background: var(--light-cream);
     transition: transform 0.2s ease;
+    word-wrap: break-word;
+}
+
+.page .p-title {
+    font-size: 3rem;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.page h1 {
+    font-family: "madieroger", serif;
+}
+
+.page img {
+    max-width: 100%;
+    height: auto;
+    max-height: 30rem;
+}
+
+.page a{
+    color: var(--orange); font-weight: bold;
 }
 
 /* post content */
@@ -302,5 +324,9 @@ a:hover { opacity: 0.8; }
         width: 6rem; 
         height: 6rem;
         margin-right: 1rem;
+    }
+    .section img {
+        width: 100%;
+        height: auto;
     }
 }
