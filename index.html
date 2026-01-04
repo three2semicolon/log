@@ -8,6 +8,7 @@
     <script src="static/visuals/design.js" defer></script>
     <script src="static/engine/nav.js" defer></script>
     <script src="static/engine/jukebox.js" defer></script>
+    <script src="https://w.soundcloud.com/player/api.js"></script>
     <link rel="icon" type="image/png" href="static/visuals/favicon.png">
 </head>
 
@@ -42,10 +43,23 @@
     <div class="content"></div>
 
     <div id="music-player" class="minimized">
-        <h1>soundtrack</h1>
+        <div id="player-bar">
+            <h1>soundtrack</h1>
+            <div id="quick-controls">
+                <button id="prev-btn" class="ctrl-btn">
+                    <img src="static/visuals/img/rewind-button.png" alt="prev">
+                </button>
+                <button id="play-pause-btn" class="ctrl-btn">
+                    <img id="play-status-icon" src="static/visuals/img/play-button.png" alt="play">
+                </button>
+                <button id="next-btn" class="ctrl-btn">
+                    <img src="static/visuals/img/next-button.png" alt="next">
+                </button>
+            </div>
+        </div>
         <div id="player">
-            <iframe width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A2163998789&color=%23ff5500&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
-            <div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;">
+            <iframe id="sc-widget" width="100%" height="450" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A2163998789&color=%23ff5500&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=false"></iframe>
+            <div style="font-size: 10px; color: var(--cream);line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;">
                 <a href="https://soundcloud.com/prod3two" title="3two" target="_blank" style="color: #cccccc; text-decoration: none;">3two</a>
             ·   <a href="https://soundcloud.com/prod3two/sets/words-soundtrack" title="words soundtrack" target="_blank" style="color: #cccccc; text-decoration: none;">words soundtrack</a>
             </div>

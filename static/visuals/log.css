@@ -254,6 +254,38 @@ a:hover { opacity: 0.8; }
         transition: opacity 0.2s, max-height 0.3s;
     }
 
+    #player-bar {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+    }
+
+    #quick-controls {
+        display: flex;
+        gap: 0.5rem;
+    }
+
+    .ctrl-btn {
+        background: none;
+        border: none;
+        cursor: pointer;
+        padding: 0;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+    }
+
+    .ctrl-btn img {
+        width: 1.6rem;
+        height: auto;
+        transition: transform 0.1s ease;
+    }
+
+    .ctrl-btn:active img {
+        transform: scale(0.9);
+    }
+
     /* post sections */
 .page {
     border: 2px solid var(--orange);
@@ -342,5 +374,8 @@ a:hover { opacity: 0.8; }
     .section img {
         width: 100%;
         height: auto;
+    }
+    .ctrl-btn img {
+        width: 2rem;
     }
 }
