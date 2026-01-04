@@ -7,7 +7,11 @@ excerpt: welcome! this is an introductory post to explain what this site is and 
 ---
 # what is this? where am i?
 
-This is a platform for me to journal and document ideas, research, opinions, reviews, and more. I've found in the past that writing out my thoughts and expanding upon them helps the world feel more real, as it forces me to sit with my thoughts and opinions more meaningfully. I've wanted ways to deep-dive or over-explain things i'd like to talk about without spamming someone's DMs, this seems like the best medium.
+This is a platform for me to journal and document ideas, research, opinions, reviews, and more. 
+
+I've found that writing out my thoughts helps the world feel more real, as it forces me to sit with the words and feelings more meaningfully.
+
+I've been needing an avenue to deep-dive or over-explain things i'd like to talk about without spamming someone's DMs, and this seems like the best medium.
 
 Should help me from doomscrolling too. Times are weird rn.
 
