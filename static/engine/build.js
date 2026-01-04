@@ -30,7 +30,9 @@ const formatDate = (dateVal) => {
     }).toLowerCase();
 };
 
-const build = () => {
+const build = async() => {
+    const { marked } = await import('marked');
+
     if (!fs.existsSync(GEN_DIR)) fs.mkdirSync(GEN_DIR, { recursive: true });
 
     const posts = [];
@@ -90,4 +92,7 @@ const build = () => {
     console.log(`[system]: re-indexed ${posts.length} files.`);
 };
 
-build();
+build().catch(err => {
+    console.error("build failed", err);
+    process.exit(1);
+});
