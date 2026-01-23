@@ -68,13 +68,8 @@ u write all my blogs in [Obsidian](https://obsidian.md/) as .md files. I run a s
 
 - RSS subscriptions
 - substack integration - i want these posts to also go on substack when it makes sense. might automate, prob won't. im lazy
-- blob to return to top (thanks manashield)
 - update about me with socials, esp github (also thanks manashield)
-- words click links back to directory
-- category fixes
-  - voices to music
-  - removing unused ones
-  - future categories (visualists, recipes(?), ))
+- future categories (visualists, recipes(?), ))
 
 ---
 

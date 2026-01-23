@@ -94,13 +94,13 @@ document.addEventListener('DOMContentLoaded', () => {
         }
 
         // dropdown toggle
-        if (link.id === 'filter-trigger') {
+        if (link && (link.id === 'filter-trigger')) {
             e.preventDefault();
             document.querySelector('#directory-menu').classList.toggle('open');
         }
 
         // category filtering
-        if (link.classList.contains('filter-opt')) {
+        if (link && link.classList.contains('filter-opt')) {
             e.preventDefault();
             currentFilter = link.dataset.filter; // save to "memory"
             filterPosts(currentFilter);

@@ -55,7 +55,7 @@ next person on my list, Ashton mccreight, has production credits on this song as
 
 # ashton mccreight
 
-[Ashton McCreight](https://soundcloud.com/ashtonbeats)is a producer/beat maker through and through. His soundcloud is full of beat tapes, flips, loose beats, etc.
+[Ashton McCreight](https://soundcloud.com/ashtonbeats) is a producer/beat maker through and through. His soundcloud is full of beat tapes, flips, loose beats, etc.
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1121490517&color=%23ae7263&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ashtonbeats" title="Ashton McCreight" target="_blank" style="color: #cccccc; text-decoration: none;">Ashton McCreight</a> · <a href="https://soundcloud.com/ashtonbeats/prioritize" title="Prioritize" target="_blank" style="color: #cccccc; text-decoration: none;">Prioritize</a></div>
 

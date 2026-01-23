@@ -61,6 +61,12 @@
     }
 
     /* blob */
+    .infected-container {
+        cursor: pointer;
+        z-index: 100;
+        transition: filter 0.3s ease;
+    }
+
     #infected {
         position: fixed;
         top: 0;
@@ -69,7 +75,8 @@
         height: 8rem;
         margin-right: 2rem;
         z-index: 1000;
-        pointer-events: none;
+        user-select: none;
+        -webkit-user-drag: none;
     }
 
     #infected-svg {
@@ -106,6 +113,11 @@
         clip-path: inset(60% 0 0 0); 
         pointer-events: none;
         user-select: none;
+    }
+    .title-link {
+        text-decoration: none;
+        color: inherit;
+        display: inline-block;
     }
 
 /* infected circle */

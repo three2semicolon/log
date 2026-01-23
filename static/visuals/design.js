@@ -45,8 +45,9 @@ const melt = (selector, depth) => {
 
 melt('.melt', 60);
 
-/* -------------------- circle ----------------------- */
+/* -------------------- blob ----------------------- */
 const path = document.querySelector('#spike-path');
+const infectedContainer = document.querySelector('#infected');
 const numSpikes = 12;
 const centerX = 100;
 const centerY = 100;
@@ -116,6 +117,15 @@ window.addEventListener('mousemove', (e) => {
 // burst
 window.addEventListener('mousedown', () => {
     burst = 100;
+});
+
+// scroll to top
+infectedContainer.addEventListener('click', () => {
+    burst = 100;
+    window.scrollTo({
+        top: 0,
+        behavior: 'smooth'
+    });
 });
 
 animate();
