@@ -19,9 +19,9 @@ excerpt: exploring the collaborators that helped build daniela andrade's tamale 
 
 *Tamale* is a 2019 EP by singer, songwriter, and producer Daniela Andrade. this project is a very personal, very silky/smooth, and at times very psychadelic r&b journey.
 
-on *december 9th, 2020* i started a rolling collab Spotify playlist w/ a few of my friends to easily share new finds around the friend group. the second song ever added to that playlist was **Ayayai**, the second single off of *Tamale*. forever in debt to my friend micah for that.
+*december 9th, 2020* i started a rolling collab Spotify playlist w/ a few of my friends to easily share new finds around the friend group. the second song ever added to that playlist was **Ayayai**, the second single off of *Tamale*. forever in debt to my friend Micah for that.
 
-(images here of playlist stuff)
+![micah](https://three2semicolon.github.io/log/static/visuals/img/insearchof/telegram_ss.jpg)
 
 has not left my rotation since. 
 
