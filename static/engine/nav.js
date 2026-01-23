@@ -79,6 +79,7 @@ document.addEventListener('DOMContentLoaded', () => {
     document.addEventListener('click', (e) => {
         const link = e.target.closest('a');
         const postEntry = e.target.closest('.post-entry');
+        const titleLink = e.target.closest('#title');
         
         if (link || postEntry) {
             const targetLink = link || postEntry.querySelector('.pja-link');
@@ -102,10 +103,16 @@ document.addEventListener('DOMContentLoaded', () => {
         // category filtering
         if (link && link.classList.contains('filter-opt')) {
             e.preventDefault();
-            currentFilter = link.dataset.filter; // save to "memory"
+            currentFilter = link.dataset.filter;
             filterPosts(currentFilter);
             document.querySelector('#filter-trigger').innerText = `directory [${currentFilter}]`;
             document.querySelector('#directory-menu').classList.remove('open');
+        }
+
+        // title click
+        if (titleLink) {
+            e.preventDefault();
+            loadPage('directory');
         }
     });
 

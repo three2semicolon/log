@@ -1,5 +1,5 @@
 ---
-title: "in search of vol. 1: tamale by daniela andrade"
+title: "in search of (vol. 1): tamale by daniela andrade"
 date: 2026-01-21
 category: music
 shorthand: insearchof1
