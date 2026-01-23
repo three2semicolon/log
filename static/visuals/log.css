@@ -25,6 +25,8 @@
         --dark-orange: #a34600;
         --ink: #3c1e00;
         --light-cream: #fff8e1;
+
+        /* category colors */
         --voices: #007acc;
         --recipes: #cc007a;
         --visualists: #7acc00;
@@ -206,7 +208,7 @@ a:hover { opacity: 0.8; }
     box-shadow: 10px 10px 0px var(--ink);
     color: var(--cream);
     z-index: 2000;
-    transition: all 0.3s ease; /* smooth height transition */
+    transition: all 0.3s ease;
 }
 
     /* header area */
@@ -335,22 +337,23 @@ a:hover { opacity: 0.8; }
 .cat-recipes { color: var(--recipes); }
 .cat-visualists { color: var(--visualists); }
 .cat-reviews { color: var(--reviews); }
-    .p-cat {
+    
+.p-cat {
         margin-right: 2rem;
-    }
-    .p-title { 
-        color: var(--ink); /* the bold & ink color you wanted */
-        text-decoration: none;
-        font-family: "madieroger", serif;
-        font-size: 1.5rem;
-    }
+}
+.p-title { 
+    color: var(--ink);
+    text-decoration: none;
+    font-family: "madieroger", serif;
+    font-size: 1.5rem;
+}
 
-    .post-entry {
-        margin-bottom: 20px;
-        padding: 15px;
-        border: 1px solid var(--orange); /* matching your UI boxes */
-        border-radius: 8px;
-    }
+.post-entry {
+    margin-bottom: 20px;
+    padding: 15px;
+    border: 1px solid var(--orange);
+    border-radius: 8px;
+}
 
 /* responsive */
 @media (max-width: 600px) {

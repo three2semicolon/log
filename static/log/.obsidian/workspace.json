@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "live/welcome.md",
+                "file": "live/insearchof1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "welcome"
+              "title": "insearchof1"
             }
           }
         ]
@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "6cab7dfc64015c8e",
@@ -183,16 +183,22 @@
       "bases:Create new base": false
     }
   },
-  "active": "7c2077eb4e006b2b",
+  "active": "a9db20716b85a0bf",
   "lastOpenFiles": [
-    "wip/mar.md",
+    "().md",
+    "live/insearchof1.md",
     "live/welcome.md",
+    "wip/template.md",
+    "wip/insearchofoverview.md",
+    "wip/jakobsmusicjourney.md",
+    "wip/pieces of a man.md",
+    "wip/~syncthing~pieces of a man.md.tmp",
+    "wip/mar.md",
     "wip/martinsupreme.md",
     "wip/kilokish.md",
     "wip/kilokish 1.md",
     "wip/kelela.md",
     "generated-html/intro.html",
-    "wip/template.md",
     "generated-html/kelela.html",
     "wip/empty.md"
   ]

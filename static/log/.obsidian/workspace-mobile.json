@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "live/welcome.md",
+                "file": "wip/insearchof1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "welcome"
+              "title": "insearchof1"
             }
           }
         ]
@@ -170,8 +170,14 @@
   },
   "active": "cdfafbec3716e680",
   "lastOpenFiles": [
-    "wip/martinsupreme.md",
+    "wip/pieces of a man.md",
+    "wip/insearchof1.md",
+    "wip/isojan10.md",
+    "Untitled",
     "live/welcome.md",
+    "wip/findingmusic.md",
+    "wip/musicsearch.md",
+    "wip/martinsupreme.md",
     "wip/kilokish.md",
     "wip/kelela.md",
     "wip/template.md",
