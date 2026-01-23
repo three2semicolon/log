@@ -27,7 +27,7 @@
         --light-cream: #fff8e1;
 
         /* category colors */
-        --voices: #007acc;
+        --music: #007acc;
         --recipes: #cc007a;
         --visualists: #7acc00;
         --reviews: #cc7a00;
@@ -333,7 +333,7 @@ a:hover { opacity: 0.8; }
 
 /* post content */
 .cat-general { color: var(--general); }
-.cat-voices { color: var(--voices); }
+.cat-music { color: var(--music); }
 .cat-recipes { color: var(--recipes); }
 .cat-visualists { color: var(--visualists); }
 .cat-reviews { color: var(--reviews); }

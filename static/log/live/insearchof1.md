@@ -15,6 +15,7 @@ excerpt: exploring the collaborators that helped build daniela andrade's tamale 
 # Tamale by Daniela Andrade
 
 ![tamale](https://images.squarespace-cdn.com/content/v1/62a8e0a365fc4b399d9588a2/1655262695317-WS2YEU7TN8I2JC7PIXUI/034147D7-014D-4D85-B933-5C145BB0C1A1.JPEG?format=1000w)
+
 *PORTRAIT OF DANIELA by Yi-Shuan Lee 李奕諠 , 2019 - from his [collection of orginal artwork for this album](https://www.yishuanlee.com/tamale)*
 
 *Tamale* is a 2019 EP by singer, songwriter, and producer Daniela Andrade. this project is a very personal, very silky/smooth, and at times very psychadelic r&b journey.
@@ -26,12 +27,14 @@ excerpt: exploring the collaborators that helped build daniela andrade's tamale 
 has not left my rotation since. 
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A913365748&color=%23ae7263&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/danielaandrade" title="Daniela Andrade" target="_blank" style="color: #cccccc; text-decoration: none;">Daniela Andrade</a> · <a href="https://soundcloud.com/danielaandrade/sets/tamale" title="Tamale" target="_blank" style="color: #cccccc; text-decoration: none;">Tamale</a></div>
+
 *buy it on [bandcamp](https://danielaandrade.bandcamp.com/album/tamale) too* 
 
 
 Andrade is an undeniable singing talent, and has production credits on every song too. no listed features on the EP either, but like most musical projects this one is very much still a collaborative effort. in the following sections i'll be briefly discussing a few of these collaborators and the music i found through them (both made by them or made by other collaborators of those collaborators. we're hitting many degrees of separation here).
 
 i'll try to make a playlist for each one of these writeups containing some of the music i ran into. see the one for tamale here, feel free to listen along as you read forward: [spotify, sorry](https://open.spotify.com/playlist/1S5gIJsR9VMBONRbcrt1C7?si=fa10bd43f5714784&pt=b9461842d3f993631812714c1cfde76f)
+
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1S5gIJsR9VMBONRbcrt1C7?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
 
@@ -50,6 +53,7 @@ outside of engineering, [Matsukawa](https://soundcloud.com/seanmatsukawa) is ver
 one of my favorites from his solo work is a 2020 song titled *ANYWAY.*
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/1GKqZCyi63lFJJ1uaas1iB?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 *his songs all have incredible artwork btw. many seem to made by or in collaboration with [Ben Clement](https://www.instagram.com/_benclement/?hl=en).
 
 next person on my list, Ashton mccreight, has production credits on this song as well. cool stuff.
@@ -105,7 +109,7 @@ first listed production credit is, of course, Rowan.
 
 going through Rowan's credits an album immediately jumped out at me (as i had heard it before). a l l i e's *Tabula Rasa*, a beautiful project from 2021, also has Rowan's fingerprints all over it
 
-wanted to briefly highlight another a l l i e song from the same album, titled "[DNA](<iframe width="560" height="315" src="https://www.youtube.com/embed/38o7Zj6s8-4?si=Gu2K4UGM2pgwA0pJ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>)", featuring Daniela Andrade herself. love this song, one of my most played songs on spotify (all time)
+wanted to briefly highlight another a l l i e song from the same album, titled *DNA*, featuring Daniela Andrade herself. love this song, one of my most played songs on spotify (all time)
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2pynCI5GBvS41YlbkA7Yhh?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe> 
 
@@ -126,6 +130,7 @@ Gateway Shuffle - Dan Only
 
 Duckstep - Cloudsteppers (ft. Dan Only and Ciel)
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/293SwAfF8O1S8tKUztVT7N?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
 ## jonah yano
 
 an even looser connection, but one i wanted to highlight.
@@ -142,10 +147,11 @@ the latter has a song *Snowpath* featuring the legendary Clairo.
 
 i note this, specifically, because in building this blogsite i heavily considering my first *in search of* to be about Clairo and El Michels Affair. [Charm](https://soundcloud.com/ccottrill/sets/charm?si=788e7357dfe8496db901c00091ceab7d&utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) is a very special once in a lifetime kind of album. i'll write about it another day.
 
-## duncan hood
+# duncan hood
 
 Duncan Hood is responsible for the drums on the live renditions of Andrade's *Ayayai* and *Wet Dreams* (both from *Tamale*) from [this performance](https://www.youtube.com/watch?v=XvUgsZPKVOc):
 <iframe width="560" height="315" src="https://www.youtube.com/embed/XvUgsZPKVOc?si=Dau7UUyEIfi5Zwck" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 from there i explored some of his other work (stalked his [instagram](https://www.instagram.com/duncanfhood/?hl=en)), lots of drum and production contributions. [he contributed to Andrade's *cohete*](https://www.instagram.com/p/DP6zAfKke-_/?hl=en), a single off of her 2026 project (to be released)
 
 to highlight a couple artists found through his network that will be in my rotation:
@@ -167,9 +173,6 @@ she's dropping an album this year (2026) called "**Oda**", very excited for that
 
 
 *P.S. if someone can find palimpsest by charlotte day wilson. the project came up in my search and i haven't been able to find a version available anywhere. gray rowan mastered it, and then her name came up again via her collab with Ouri*  
-
-![palimsest](https://lastfm.freetls.fastly.net/i/u/500x500/7456f5458ccfa41cfd1e67909e9047d7.jpg")
-  
 
 *P.P.S canada and LA are well represented in this post, one day I'll visit*  
   
