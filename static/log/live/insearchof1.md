@@ -20,20 +20,15 @@ excerpt: exploring the collaborators that helped build daniela andrade's tamale 
 
 *Tamale* is a 2019 EP by singer, songwriter, and producer Daniela Andrade. this project is a very personal, very silky/smooth, and at times very psychadelic r&b journey.
 
-*december 9th, 2020* i started a rolling collab Spotify playlist w/ a few of my friends to easily share new finds around the friend group. the second song ever added to that playlist was **Ayayai**, the second single off of *Tamale*. forever in debt to my friend Micah for that.
-
-![micah](https://three2semicolon.github.io/log/static/visuals/img/insearchof/telegram_ss.jpg)
-
-has not left my rotation since. 
-
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A913365748&color=%23ae7263&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/danielaandrade" title="Daniela Andrade" target="_blank" style="color: #cccccc; text-decoration: none;">Daniela Andrade</a> · <a href="https://soundcloud.com/danielaandrade/sets/tamale" title="Tamale" target="_blank" style="color: #cccccc; text-decoration: none;">Tamale</a></div>
 
-*buy it on [bandcamp](https://danielaandrade.bandcamp.com/album/tamale) too* 
+*on *december 9th, 2020* my friend added **Ayayai**, *Tamale*'s second single, to a collaborative spotify playlist we had just started. forever in debt to my friend Micah for that as it has not left my rotation since.*
 
+## getting started
 
 Andrade is an undeniable singing talent, and has production credits on every song too. no listed features on the EP either, but like most musical projects this one is very much still a collaborative effort. in the following sections i'll be briefly discussing a few of these collaborators and the music i found through them (both made by them or made by other collaborators of those collaborators. we're hitting many degrees of separation here).
 
-i'll try to make a playlist for each one of these writeups containing some of the music i ran into. see the one for tamale here, feel free to listen along as you read forward: [spotify, sorry](https://open.spotify.com/playlist/1S5gIJsR9VMBONRbcrt1C7?si=fa10bd43f5714784&pt=b9461842d3f993631812714c1cfde76f)
+i'll try to make a playlist for each one of these writeups containing some of the music i ran into. see the one for tamale here, feel free to listen along as you read forward via [spotify](https://open.spotify.com/playlist/1S5gIJsR9VMBONRbcrt1C7?si=fa10bd43f5714784&pt=b9461842d3f993631812714c1cfde76f)
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1S5gIJsR9VMBONRbcrt1C7?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
