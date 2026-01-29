@@ -22,7 +22,8 @@ excerpt: exploring the collaborators that helped build daniela andrade's tamale 
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A913365748&color=%23ae7263&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/danielaandrade" title="Daniela Andrade" target="_blank" style="color: #cccccc; text-decoration: none;">Daniela Andrade</a> · <a href="https://soundcloud.com/danielaandrade/sets/tamale" title="Tamale" target="_blank" style="color: #cccccc; text-decoration: none;">Tamale</a></div>
 
-*on *december 9th, 2020* my friend added **Ayayai**, *Tamale*'s second single, to a collaborative spotify playlist we had just started. forever in debt to my friend Micah for that as it has not left my rotation since.*
+has not left my rotation since my first listen.
+*(my friend introduced me to **Ayayai**, Tamale's second single, on december 9th, 2020).*
 
 ## getting started
 
@@ -81,7 +82,7 @@ his 2021 *SOMETHING SOMETHING TAPE* is super cool. vocal features on pretty much
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A1134157186&color=%23363736&auto_play=false&hide_related=false&show_comments=false&show_user=true&show_reposts=false&show_teaser=false&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/young-clancy" title="YOUNG CLANCY" target="_blank" style="color: #cccccc; text-decoration: none;">YOUNG CLANCY</a> · <a href="https://soundcloud.com/young-clancy/sets/something-demos-mixes-masters" title="SOMETHING SOMETHING TAPE" target="_blank" style="color: #cccccc; text-decoration: none;">SOMETHING SOMETHING TAPE</a></div>
 
-wanted to close this section with a quote. [When The Horn Blows interviewed Clancy](https://whenthehornblows.com/content/2019/3/3/introducing-0076-young-clancy) in 2019, asking him what his favorite thing about Toronto is. 
+[When The Horn Blows interviewed the Clancy](https://whenthehornblows.com/content/2019/3/3/introducing-0076-young-clancy) in 2019, asking him what his favorite thing about Toronto is. (He's based in Toronto)
 
 his answer was simply:
 **"Pascal Siakam."**
@@ -90,7 +91,7 @@ his answer was simply:
 
 # gray rowan 
 
-Gray Rowan's all over Daniela Andrade's discography, with production creds on 3 song from *Tamale* (*Fin*, *Wet Dreams*, and *Ayayai*. very frequent collaborator
+Gray Rowan's all over Daniela Andrade's discography, with production creds on 3 songs from *Tamale*: *Fin*, *Wet Dreams*, and *Ayayai*. very frequent collaborator
 
 his name kept coming up throughout my search. he's produced/collaborated with Young Clancy on his solo work, Daniela Andrade on her other projects, and has credits for many [many other artists/songs](https://www.discogs.com/artist/3845280-Gray-Rowan?srsltid=AfmBOoovPNuvrF8_3ri-AKR_1KD5zZWEYzNIeYwkR7mPI0D7n7-lKUhZ). i'll talk about a few in the following subsections.
 
