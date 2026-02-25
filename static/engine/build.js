@@ -118,6 +118,7 @@ const build = async() => {
                 <span style="color:var(--orange)">[${displayDate}]</span> 
                 <span class="cat-${data.category}">[${data.category}]</span>
             </div>
+            <span class="copy-link" onclick="copyPermalink(event, '${shorthand}')" style="cursor:pointer; margin-top:10px;">[share]</span>
         </div>
         <div class="post-body">
             ${htmlContent}

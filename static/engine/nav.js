@@ -129,3 +129,21 @@ function filterPosts(category) {
             ? 'block' : 'none';
     });
 }
+
+const copyPermalink = (e, shorthand) => {
+    if (e) e.preventDefault();
+    
+    const url = `https://log.whitfija.com/?p=${shorthand}`;
+    
+    navigator.clipboard.writeText(url).then(() => {
+        const btn = e.target;
+        const originalText = btn.textContent;
+        
+        btn.textContent = '[copied!]';
+        setTimeout(() => { 
+            btn.textContent = originalText; 
+        }, 2000);
+    }).catch(err => {
+        console.error('could not copy tape link: ', err);
+    });
+};

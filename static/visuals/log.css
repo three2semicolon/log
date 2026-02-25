@@ -312,7 +312,7 @@ a:hover { opacity: 0.8; }
 }
 
 .page .p-title {
-    font-size: 3rem;
+    font-size: 2.3rem;
     margin-top: 0;
     margin-bottom: 0;
 }
@@ -369,6 +369,16 @@ a:hover { opacity: 0.8; }
 
 #footer {
     margin-bottom: 6rem;
+}
+
+.copy-link {
+    opacity: 0.5;
+    transition: opacity 0.2s ease;
+}
+
+.copy-link:hover {
+    opacity: 1;
+    color: var(--orange);
 }
 
 /* responsive */
