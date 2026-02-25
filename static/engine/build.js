@@ -29,6 +29,35 @@ const formatDate = (dateVal) => {
     }).toLowerCase();
 };
 
+const generateSitemap = (posts) => {
+    const baseUrl = 'https://log.whitfija.com/';
+    const staticPages = ['', 'about', 'directory'];
+    
+    const pageEntries = staticPages.map(page => `
+    <url>
+        <loc>${baseUrl}/${page}</loc>
+        <changefreq>weekly</changefreq>
+        <priority>${page === '' ? '1.0' : '0.8'}</priority>
+    </url>`).join('');
+
+    const postEntries = posts.map(p => `
+    <url>
+        <loc>${baseUrl}/?p=${p.shorthand}</loc>
+        <lastmod>${new Date(p.date).toISOString().split('T')[0]}</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.6</priority>
+    </url>`).join('');
+
+    const sitemapContent = `<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    ${pageEntries}
+    ${postEntries}
+</urlset>`;
+
+    fs.writeFileSync(path.join(__dirname, '../sitemap.xml'), sitemapContent);
+    console.log(`[system]: sitemap.xml updated with ${posts.length + staticPages.length} entries.`);
+};
+
 const build = async() => {
     const { marked } = await import('marked');
 
@@ -89,6 +118,8 @@ const build = async() => {
 
     fs.writeFileSync(DIR_FILE, directoryHtml);
     console.log(`[system]: re-indexed ${posts.length} files.`);
+
+    generateSitemap(posts);
 };
 
 build().catch(err => {
