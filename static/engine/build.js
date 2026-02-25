@@ -31,7 +31,7 @@ const formatDate = (dateVal) => {
 
 const generateSitemap = (posts) => {
     const baseUrl = 'https://log.whitfija.com';
-    const staticPages = ['', 'about', 'directory'];
+    const staticPages = ['about', 'directory'];
     
     const pageEntries = staticPages.map(page => `
     <url>
@@ -50,6 +50,11 @@ const generateSitemap = (posts) => {
 
     const sitemapContent = `<?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://log.whitfija.com/</loc>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
     ${pageEntries}
     ${postEntries}
 </urlset>`;
