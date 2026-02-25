@@ -63,6 +63,34 @@ const generateSitemap = (posts) => {
     console.log(`[system]: sitemap.xml updated with ${posts.length + staticPages.length} entries.`);
 };
 
+const generateRSS = (posts) => {
+    const baseUrl = 'https://log.whitfija.com';
+    
+    const items = posts.map(p => `
+        <item>
+            <title>${p.title.toLowerCase()}</title>
+            <link>${baseUrl}/?p=${p.shorthand}</link>
+            <guid>${baseUrl}/?p=${p.shorthand}</guid>
+            <pubDate>${new Date(p.date).toUTCString()}</pubDate>
+            <description><![CDATA[${p.excerpt || ''}]]></description>
+        </item>`).join('');
+
+    const rssContent = `<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+    <title>words*</title>
+    <link>${baseUrl}</link>
+    <description>a place for my thoughts by 3two</description>
+    <atom:link href="${baseUrl}/static/rss.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language>
+    ${items}
+</channel>
+</rss>`;
+
+    fs.writeFileSync(path.join(__dirname, '../rss.xml'), rssContent);
+    console.log(`[system]: rss.xml updated.`);
+};
+
 const build = async() => {
     const { marked } = await import('marked');
 
@@ -125,6 +153,7 @@ const build = async() => {
     console.log(`[system]: re-indexed ${posts.length} files.`);
 
     generateSitemap(posts);
+    generateRSS(posts);
 };
 
 build().catch(err => {

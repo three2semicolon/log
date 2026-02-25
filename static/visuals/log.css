@@ -367,6 +367,10 @@ a:hover { opacity: 0.8; }
     border-radius: 8px;
 }
 
+#footer {
+    margin-bottom: 6rem;
+}
+
 /* responsive */
 @media (max-width: 600px) {
     .nav {
