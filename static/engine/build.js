@@ -30,12 +30,12 @@ const formatDate = (dateVal) => {
 };
 
 const generateSitemap = (posts) => {
-    const baseUrl = 'https://log.whitfija.com/';
+    const baseUrl = 'https://log.whitfija.com';
     const staticPages = ['', 'about', 'directory'];
     
     const pageEntries = staticPages.map(page => `
     <url>
-        <loc>${baseUrl}/${page}</loc>
+        <loc>${baseUrl}/?p=${page}</loc>
         <changefreq>weekly</changefreq>
         <priority>${page === '' ? '1.0' : '0.8'}</priority>
     </url>`).join('');
