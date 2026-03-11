@@ -1,0 +1,118 @@
+---
+title: creating new things
+date: 2026-03-07
+category: general
+shorthand: creation
+excerpt: creation and experimentation. keep making cool things
+---
+# creation
+
+i'm a firm believer that humans are meant to create.
+
+![3two circa 2021|127](https://three2semicolon.github.io/log/static/visuals/img/music/2021desk.jpg)
+
+*my desk "studio", 2021*
+
+at least those wired the same way as me. there are few things that bring me more satisfaction than building or creating something new. websites, beats, videos, applications, food, folder structures, room layouts, etc., etc., etc..
+
+this is perfect for personal projects, where i have full control of the pace of development, scope, and its creative identities. i'm lucky enough that my work gives me the opportunity to create daily, and i'm constantly looking for ways to blur my passions into further employment opportunity *(i'm very passionate about software development, i got lucky)*.
+
+i started making music (properly) towards the end of high school, about a decade ago. saw my first dollar (\$\$\$\$) from it in 2019 via a [double single of instrumentals](https://open.spotify.com/album/1X9uPEvcqQXSYjCiATiqvI) i threw on streaming platforms, after years of releasing exclusively on soundcloud.
+
+![3two circa 2016](https://three2semicolon.github.io/log/static/visuals/img/music/pianoman2016.jpg)
+
+*me at my desk w/ the midi i still have, 2016*
+
+i knew early on that while the prospect of making a living from music production interested me, i deeply feared the idea of music becoming a **chore** or **obligation**. how can i enjoy creation with the immense pressure of needing to now advertise, please an audience, or create for the sake of releasing rather than for the sake of creation?
+
+# fear of stagnation
+
+7 years removed from this first release, I still have no plans to live off of my music. that being said, my perspective on this has changed a lot. 
+
+i work with more collaborators, who have their own visions, plans, and desires. when contributing to someone else's project, the creative vision cannot be just my own. i have to give up the control that i once protected, and the music is better for it.
+
+i'm hoping to do the same for [web development](https://whitfija.com), using my skillset to bring other people's visions to life the same way i have my own. similarly to 7 years ago, a fear pops into my head:
+
+**what if i become stagnate, always making the same type of thing for the same type of reason in the same type of way for the rest of my career?**
+
+there's a balance to be found here, though. consistency is key in building a brand, and proving to a collaborator or client that they can expect a certain level of quality and artistic vision from me every time is important. you don't get results from exercising by working out a different muscle for a different amount of time every time. i have to build habits and discipline to reach the skill i want to reach. building muscle memory, regardless of how "boring" it might be be.
+
+
+![gainz](https://three2semicolon.github.io/log/static/visuals/img/music/whereuworkout.png)
+
+luckily, in art/design, this doesn't mean i need to cap myself creatively. more that there's a time and place, and to know when or where to inject new ideas.
+
+# experimentation
+
+experimentation, to me, is the backbone of art progression through time. 
+
+every artist has influences and inspirations, and most start off learning the basics from what already exists. artistic mediums all have their own rules and contexts to consider. while learning these rules and how to create within them will give you a great basis, you're not creating anything ***new*** yet. 
+
+
+![nmaahc photo](https://three2semicolon.github.io/log/static/visuals/img/music/museum1.jpg)
+
+*a photo from a 2023 visit to the[ National Museum of African American History & Culture](https://nmaahc.si.edu)*
+
+that missing step is experimentation. taking those rules, breaking them, combining contexts and influences, and seeing what sticks. throughout this process you have also push yourself as an artist. (from [Cambridge](https://dictionary.cambridge.org/dictionary/english/experimentation), experimentation is *"the process of trying methods, activities, etc. to discover what effect they have"*). much like the example earlier regarding a productive workout routine, the real growth comes from hitting a limit (artistic, personal, etc.), and pushing that limit just a bit further than seemed possible. that, to me, is the basis of music, art, and personal growth. things have to get uncomfortable and weird to find or build something new.
+
+# i <3 new things
+
+full disclosure: i'm very biased about this. i love experimental art
+
+once i started to define my own tastes *(circa 2011, i.e. listening to music other than what my mom and dad played in the car)* i found myself  drawn to the new and the weird. my tweenage self started with a deep dive into Skrillex's discography, leading to a full blown EDM phase courtesy of Monstercat, which then led to the discovery of soundcloud and the independent artist. that opened up many new worlds.
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/2TkoUq8sPXmc4KYzKBiTWT?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+i have an extreme appreciation for music that sounds brand new, something i've never heard before. that could be unique blend of styles, unique mixing, unique structures, or just sounds that i have not heard in contexts that i did not expect them. 
+
+around that early/mid 2010s time i stumbled into a community of soundcloud artists that, to me, did a bit of all the above. combining influences that i had grown up with myself (hip-hop, r&b,  neo-soul) with that EDM-like wild level of experimentation. 
+
+i vividly remember sitting in my 2012 art class, listening to monte booker, herzeloyde, montell2099, and j.robb (+ MANY MANY MORE) wondering how they could've made something this creative and left-field. i remember having a similar experience the first time I heard a Flying Lotus song, and then again when i heard Kendrick Lamar's To Pimp a Butterfly.
+
+highlighting some throwbacks:
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A295027165&color=%23acacb4&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/montebooker" title="monte booker" target="_blank" style="color: #cccccc; text-decoration: none;">monte booker</a> · <a href="https://soundcloud.com/montebooker/estelle" title="estelle" target="_blank" style="color: #cccccc; text-decoration: none;">estelle</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A44241450&color=%23acacb4&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kaytranada" title="&quot;KKAAYYTTRRAA&quot;" target="_blank" style="color: #cccccc; text-decoration: none;">&quot;KKAAYYTTRRAA&quot;</a> · <a href="https://soundcloud.com/kaytranada/erykah-badu-love-of-my-life" title="Erykah Badu - Love Of My Life (Kaytranada Remix)" target="_blank" style="color: #cccccc; text-decoration: none;">Erykah Badu - Love Of My Life (Kaytranada Remix)</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A238556402&color=%23acacb4&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/montell2099" title="montell2099" target="_blank" style="color: #cccccc; text-decoration: none;">montell2099</a> · <a href="https://soundcloud.com/montell2099/flute-her" title="flute her" target="_blank" style="color: #cccccc; text-decoration: none;">flute her</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A221551228&color=%23acacb4&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/herzeloyde" title="herzeloyde" target="_blank" style="color: #cccccc; text-decoration: none;">herzeloyde</a> · <a href="https://soundcloud.com/herzeloyde/producer" title="producer" target="_blank" style="color: #cccccc; text-decoration: none;">producer</a></div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A236584384&color=%23acacb4&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/diversa" title="DIVERSA" target="_blank" style="color: #cccccc; text-decoration: none;">DIVERSA</a> · <a href="https://soundcloud.com/diversa/catalog-music" title="catalog music" target="_blank" style="color: #cccccc; text-decoration: none;">catalog music</a></div>
+
+these are products of experimentation, artists not afraid to color outside of the lines and determine for themselves if they like the color better that way. 
+
+i imagine most people have similar musical journeys, where something new catches their ear at the perfect time leading to deep (or shallow) dives into genres and sounds that they otherwise never would've heard.  they, like myself, might become motivated to create their own music, continuing the cycle once their own music influences someone else. 
+
+compare this to open source software and the growing public knowledge-base, building new solutions from what already exists and finding inspiration from the ways others create their own software. hip hop only exists because someone broke the boundaries of funk/disco, those genres only existed due to the evolution of soul and blues music. there are infinite lines of influence that can be drawn from every piece of artwork ever created, and every new piece creates another set of infinite lines. 
+
+art is forever.
+
+# suggestions, fucked up art is everywhere
+
+another playlist, wanted to highlight some artists and songs that epitomize the idea of experimentation. stuff that wouldn't exist without decades of boundary pushing leading to them. lots of different genres in here, [hope you find something you enjoy](https://open.spotify.com/playlist/3i3opgqUGegGD1oQpE61BX?si=64e1c37b9beb4a51):
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3i3opgqUGegGD1oQpE61BX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+# wrap up, the beauty of deriving meaning from nothing (or everything?)
+
+
+![animal crossing studio](https://three2semicolon.github.io/log/static/visuals/img/music/animalcrossing.png)
+
+my animal crossing home's basement studio, 2021 
+
+everything connects, everything is politics, everything is art, everything is love. we create to express, and those creations spawn new feelings to express as further creations.
+
+this post started off as a complaint. i saw people complaining on twitter (of course), that jazz is pretentious and inaccessible. i could rant about this for a while (and fully planned to originally), but decided it'd be better to celebrate the beauty of art and why jazz can sound as inaccessible as it can sometimes.
+
+each decision in art has meaning.
+sometimes the meaning is just "that sounds cool".
+sometimes its a deliberate breaking of artistic rules. 
+
+with that process, sometimes things feel wrong or inaccessible. it isn't meant for everyone, and to me that's the human experience. the medium will thrive regardless as long as we are making human mistakes and experimenting with our art.
+
+see Max Dice's video below, where he talks about relinquishing artistic control (for your own good)
+<iframe width="560" height="315" src="https://www.youtube.com/embed/oFXL_d4fIhI?si=Gx6PfK1DHdqgqb39" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+thank you
