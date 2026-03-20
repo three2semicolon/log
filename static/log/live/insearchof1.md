@@ -45,7 +45,9 @@ Sean seems to primarily label himself as an artist, producer, and mixing/masteri
 
 ![sean matsukawa](https://cdn.voyagela.com/wp-content/uploads/2020/05/personal_photo-90-937x600.jpeg)
 
-luther, third track off of Kendrick's *gnx* [just caught a Grammy nomination](https://www.grammy.com/artists/sean-matsukawa/61346). he's got engineer credits on that joint, so i might have to update this to denote him as a Grammy winner within the next week. he's got a few engineer credits on SZA most recent output *LANA* too.
+luther, third track off of Kendrick's *gnx* [just caught a Grammy nomination](https://www.grammy.com/artists/sean-matsukawa/61346). he's got engineer credits on that album, so i might have to update this to denote him as a Grammy winner within the next week. he's got a few engineer credits on SZA most recent output *LANA* too.
+
+(UPDATE 3/20/2025: [Grammy award winner Sean Matsukawa](https://www.grammy.com/artists/sean-matsukawa/61346), Record Of The Year for *luther*)
 
 outside of engineering, [Matsukawa](https://soundcloud.com/seanmatsukawa) is very much an artist of his own. multi-instrumentalist, performer, producer, singer. he's put a lot of dope music out into the world.
 
