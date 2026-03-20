@@ -5,7 +5,7 @@ category: visuals
 shorthand: snowdays
 excerpt: image archive - (dec 14th - feb 23rd)
 ---
-![bwdy|445](https://log.whitfija.com/static/visuals/img/archive/snowdays/bwdy.png)
+![bwdy](https://log.whitfija.com/static/visuals/img/archive/snowdays/bwdy.png)
 
 ---
 
