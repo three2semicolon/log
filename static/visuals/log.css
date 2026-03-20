@@ -29,7 +29,7 @@
         /* category colors */
         --music: #007acc;
         --recipes: #cc007a;
-        --visualists: #7acc00;
+        --visuals: #7acc00;
         --reviews: #cc7a00;
         --general: #800080;
     }
@@ -347,7 +347,7 @@ a:hover { opacity: 0.8; }
 .cat-general { color: var(--general); }
 .cat-music { color: var(--music); }
 .cat-recipes { color: var(--recipes); }
-.cat-visualists { color: var(--visualists); }
+.cat-visuals { color: var(--visuals); }
 .cat-reviews { color: var(--reviews); }
     
 .p-cat {

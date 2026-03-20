@@ -69,7 +69,7 @@ document.addEventListener('DOMContentLoaded', () => {
                     <a href="#" class="filter-opt" data-filter="all">all</a>
                     <a href="#" class="filter-opt" data-filter="general">general</a>
                     <a href="#" class="filter-opt" data-filter="music">music</a>
-                    <a href="#" class="filter-opt" data-filter="visualists">visualists</a>
+                    <a href="#" class="filter-opt" data-filter="visuals">visuals</a>
                     <a href="#" class="filter-opt" data-filter="reviews">reviews</a>
                     <a href="#" class="filter-opt" data-filter="recipes">recipes</a>
                 </div>
