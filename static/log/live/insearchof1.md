@@ -14,6 +14,7 @@ excerpt: exploring the collaborators that helped build daniela andrade's tamale 
 
 *we can think of each album as its own pocket universe of musicians, producers, engineers, feelings, and inspirations to get lost in. in this volume i'll be exploring one of my favorite universes:*
 
+---
 # Tamale by Daniela Andrade
 
 ![tamale](https://images.squarespace-cdn.com/content/v1/62a8e0a365fc4b399d9588a2/1655262695317-WS2YEU7TN8I2JC7PIXUI/034147D7-014D-4D85-B933-5C145BB0C1A1.JPEG?format=1000w)
@@ -35,6 +36,7 @@ i'll try to make a playlist for each one of these writeups containing some of th
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/1S5gIJsR9VMBONRbcrt1C7?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+---
 # sean matsukawa
 
 starting from the top, the trap-infused downtempo title track *Tamale* features production from Sean Matsukawa and Ashton McCreight
@@ -163,6 +165,7 @@ and Ouri, via her 2025 album *Daisy Cutter*. her duo work with Helena Deland und
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/4qAqkkxrFe0V8jIKoI83o4?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/track/3N9ho4NMwJMJzlH0xa9AIJ?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+---
 # closing notes
 
 *Tamale* is a masterpiece, i love this project. the soundscape Andrade and her collaborators built captured me immediately and has yet to let go. i'm happy to have found so many artists and songs equally as capturing through my search. it's been a great journey through the *Tamale* universe.

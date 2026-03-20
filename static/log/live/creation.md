@@ -17,6 +17,8 @@ at least those wired the same way as me. there are few things that bring me more
 
 this is perfect for personal projects, where i have full control of the pace of development, scope, and its creative identities. i'm lucky enough that my work gives me the opportunity to create daily, and i'm constantly looking for ways to blur my passions into further employment opportunity *(i'm very passionate about software development, i got lucky)*.
 
+---
+
 i started making music (properly) towards the end of high school, about a decade ago. saw my first dollar (\$\$\$\$) from it in 2019 via a [double single of instrumentals](https://open.spotify.com/album/1X9uPEvcqQXSYjCiATiqvI) i threw on streaming platforms, after years of releasing exclusively on soundcloud.
 
 ![3two circa 2016](https://three2semicolon.github.io/log/static/visuals/img/music/pianoman2016.jpg)
@@ -42,6 +44,7 @@ there's a balance to be found here, though. consistency is key in building a bra
 
 luckily, in art/design, this doesn't mean i need to cap myself creatively. more that there's a time and place, and to know when or where to inject new ideas.
 
+---
 # experimentation
 
 experimentation, to me, is the backbone of art progression through time. 
@@ -57,7 +60,7 @@ that missing step is experimentation. taking those rules, breaking them, combini
 
 # i <3 new things
 
-full disclosure: i'm very biased about this. i love experimental art
+full disclosure: i'm very biased toward experimental art.
 
 once i started to define my own tastes *(circa 2011, i.e. listening to music other than what my mom and dad played in the car)* i found myself  drawn to the new and the weird. my tweenage self started with a deep dive into Skrillex's discography, leading to a full blown EDM phase courtesy of Monstercat, which then led to the discovery of soundcloud and the independent artist. that opened up many new worlds.
 
@@ -89,12 +92,14 @@ compare this to open source software and the growing public knowledge-base, buil
 
 art is forever.
 
-# suggestions, fucked up art is everywhere
+---
+# suggestions, weird art is everywhere
 
 another playlist, wanted to highlight some artists and songs that epitomize the idea of experimentation. stuff that wouldn't exist without decades of boundary pushing leading to them. lots of different genres in here, [hope you find something you enjoy](https://open.spotify.com/playlist/3i3opgqUGegGD1oQpE61BX?si=64e1c37b9beb4a51):
 
 <iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/3i3opgqUGegGD1oQpE61BX?utm_source=generator" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
 
+---
 # wrap up, the beauty of deriving meaning from nothing (or everything?)
 
 
