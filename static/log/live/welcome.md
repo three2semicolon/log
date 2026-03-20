@@ -64,12 +64,11 @@ u write all my blogs in [Obsidian](https://obsidian.md/) as .md files. I run a s
 
 ---
 
-# rolling todo / feature list for me to implement soon
+# todo
+*feature list for me to implement soon*
 
-- RSS subscriptions
 - substack integration - i want these posts to also go on substack when it makes sense. might automate, prob won't. im lazy
 - update about me with socials, esp github (also thanks manashield)
-- future categories (visualists, recipes(?), ))
 
 ---
 

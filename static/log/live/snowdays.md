@@ -3,11 +3,8 @@ title: snowdays
 date: 2026-03-20
 category: visuals
 shorthand: snowdays
-excerpt: archive - (dec 14th - feb 23rd)
+excerpt: image archive - (dec 14th - feb 23rd)
 ---
-# snowdays
-
-
 ![bwdy|445](https://log.whitfija.com/static/visuals/img/archive/snowdays/bwdy.png)
 
 ---

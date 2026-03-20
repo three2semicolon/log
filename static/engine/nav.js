@@ -8,7 +8,7 @@ document.addEventListener('DOMContentLoaded', () => {
     const contentArea = document.querySelector('.content');
     let currentFilter = 'all'; 
 
-    const loadPage = async (pageName, forcePost = false) => {
+    const loadPage = async (pageName, forcePost = false, isRetracing = false) => {
         const contentArea = document.querySelector('.content');
         const isPost = forcePost || (pageName !== 'about' && pageName !== 'directory');
         const folder = isPost ? 'static/log/generated-html' : 'static/pages';
@@ -29,17 +29,15 @@ document.addEventListener('DOMContentLoaded', () => {
             contentArea.innerHTML = newContent;
 
             if (isPost) {
-                // grab title from the generated fragment
                 const postTitle = doc.querySelector('.p-title')?.innerText || pageName;
                 document.title = `${postTitle.toLowerCase()} | words*`;
-            } else if (pageName === 'about') {
-                document.title = `about | words*`;
             } else {
-                // reset to default for the directory
-                document.title = `words*`;
+                document.title = pageName === 'about' ? `about | words*` : `words*`;
             }
 
-            window.history.pushState({page: pageName}, '', `?p=${pageName}`);
+            if (!isRetracing) {
+                window.history.pushState({page: pageName}, '', `?p=${pageName}`);
+            }
 
             updateNavContext(pageName);
 
@@ -115,6 +113,15 @@ document.addEventListener('DOMContentLoaded', () => {
             loadPage('directory');
         }
     });
+
+    // popstate
+    window.addEventListener('popstate', (e) => {
+    const pageName = (e.state && e.state.page) 
+        ? e.state.page 
+        : new URLSearchParams(window.location.search).get('p') || 'directory';
+    
+    loadPage(pageName, false, true); 
+});
 
     // init
     const params = new URLSearchParams(window.location.search);
