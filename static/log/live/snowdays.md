@@ -53,3 +53,9 @@ excerpt: archive - (dec 14th - feb 23rd)
 
 *pics taken from december 14th, 2025 - february 23rd, 2026.
 nyc, jersey, on the road in pennsylvania*
+
+---
+
+*p.s. - a relevant ep from one of my favorite producers, [nostalgiia≈](https://grizzlyflow.bandcamp.com):*
+
+<iframe style="border: 0; width: 400px; height: 373px;" src="https://bandcamp.com/EmbeddedPlayer/album=1067011011/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/" seamless><a href="https://grizzlyflow.bandcamp.com/album/snowfall">snowfall_ by nostalgiia≈</a></iframe>
