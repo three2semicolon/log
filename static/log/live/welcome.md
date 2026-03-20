@@ -60,7 +60,7 @@ GitHub for the nerds: [github.com/three2semicolon/log](https://github.com/three2
 
 this site is built to be "static", in the sense that there is no server (node, react, flask, etc) running constantly to host the site. every page you view is a static html file at load time, as this site was originally built for GitHub page hosting.
 
-u write all my blogs in [Obsidian](https://obsidian.md/) as .md files. I run a small js script (either manually or triggered via a GitHub push) that will generate the .html for each post. these are the pages you view (like the one you're on now).
+i write all my blogs in [Obsidian](https://obsidian.md/) as .md files, then run a small js script (either manually or triggered via a GitHub push) that will generate the .html for each post. these are the pages you view (i.e. the one you're on now).
 
 ---
 
