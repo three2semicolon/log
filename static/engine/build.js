@@ -80,7 +80,7 @@ const generateRSS = (posts) => {
 <channel>
     <title>words*</title>
     <link>${baseUrl}</link>
-    <description>a place for my thoughts by 3two</description>
+    <description>a place for my thoughts by three2</description>
     <atom:link href="${baseUrl}/static/rss.xml" rel="self" type="application/rss+xml" />
     <language>en-us</language>
     ${items}
