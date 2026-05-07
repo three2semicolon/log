@@ -46,6 +46,7 @@ playlist here
 
 flexulant and bambii's remix of *Closure* was the song that drew me into this album originally. weird in all the right ways, extremely danceable yet atmospheric. swear they made this one just for me. made a perfect song even more perfect somehow.
 <iframe width="560" height="315" src="https://www.youtube.com/embed/OohSWndOE9c?si=B4CMfZIsGFbq5tP-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 naturally, had to try to find more like it. this led me to [flexulant's soundcloud](https://soundcloud.com/flexulant) and a further deep dive, eventually resulting in me wanting to write this blog.
 
 immediately fell in love with this six-ish minute mix of janet jackson jungle edits:
@@ -66,6 +67,7 @@ one of my favorites from flexulant's likes, djmaitai. this ep/project especially
 and another favorite:
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2292443555&color=%23886651&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/djmaithai" title="djmaithai" target="_blank" style="color: #cccccc; text-decoration: none;">djmaithai</a> · <a href="https://soundcloud.com/djmaithai/jazz-uplifts-me" title="What A Journey" target="_blank" style="color: #cccccc; text-decoration: none;">What A Journey</a></div>
+
 ## dj sister by auntie
 
 another from flexulant's likes, this album dj sister, by milwaukee's [auntie](https://soundcloud.com/auntieauntieauntie):
@@ -125,6 +127,7 @@ i have to also shoutout [his set from a NTS radio show on july 28th, 2023](https
 he's got a great remix of *Bruises* off of *Raven*:
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A2017603757&color=%23827c58&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ossx" title="OSSX" target="_blank" style="color: #cccccc; text-decoration: none;">OSSX</a> · <a href="https://soundcloud.com/ossx/kelela-bruises-ossx-remix" title="Kelela - Bruises (OSSX Remix)" target="_blank" style="color: #cccccc; text-decoration: none;">Kelela - Bruises (OSSX Remix)</a></div>
+
 ## w.peace
 
 similar to flexulant, dj swisha is properly active on soundcloud.
@@ -162,6 +165,8 @@ another from that dj set that caught my ear was [this song](https://tahison.band
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=4033367735/size=large/bgcol=333333/linkcol=e32c14/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://tahison.bandcamp.com/album/shadowwerk-vol-1">SHADOWWERK VOL:1 by TAH</a></iframe>
 
+thank you swisha
+
 ---
 
 # dj lhc
@@ -175,6 +180,7 @@ through *RAVE:N* I was also introduced to DJ LHC, a brazilian dj/producer and se
 found myself really enjoying his [**Bleeper** EP](https://soundcloud.com/djlhc/sets/bleeper-ep), the song I LOVE LOVE U was on repeat for a good 24 hours straight during my search:
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1398638959&color=%231a1f1e&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/djlhc" title="DJ LHC" target="_blank" style="color: #cccccc; text-decoration: none;">DJ LHC</a> · <a href="https://soundcloud.com/djlhc/dj-lhc-i-love-love-u" title="DJ LHC - I LOVE LOVE U" target="_blank" style="color: #cccccc; text-decoration: none;">DJ LHC - I LOVE LOVE U</a></div>
+
 ## moi / jorge x
 
 through dj lhc's likes, i was introduced to [Jorge X](https://soundcloud.com/postboombap) / Baby Moi, 
@@ -203,7 +209,9 @@ a couple favorites:
 she also releases under the stage name Whatever the Weather. two self-titled albums, both excellent.
 
 <iframe style="border: 0; width: 560px; height: 435px;" src="https://bandcamp.com/VideoEmbed?track=2317057660&bgcol=333333&linkcol=ffffff" mozallowfullscreen="1" webkitallowfullscreen="1" allowfullscreen="1" seamless></iframe>
+
 ---
+
 # JD. REID
 
 ![JD](https://media.wonderlandmagazine.com/uploads/2024/09/thumbnail_JD.-REID-1.jpg)
@@ -266,17 +274,21 @@ artists that i knew already, that were either on or connected to the remix album
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A2048515680&color=%230e0e0e&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/rojoproto" title="R O J O" target="_blank" style="color: #cccccc; text-decoration: none;">R O J O</a> · <a href="https://soundcloud.com/rojoproto/sets/through-the-wall-7" title="Through The Wall" target="_blank" style="color: #cccccc; text-decoration: none;">Through The Wall</a></div>
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1308692974&color=%23a0a097&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/rojoproto" title="R O J O" target="_blank" style="color: #cccccc; text-decoration: none;">R O J O</a> · <a href="https://soundcloud.com/rojoproto/all-along-kaytranada-remix" title="ALL ALONG (Kaytranada Remix)" target="_blank" style="color: #cccccc; text-decoration: none;">ALL ALONG (Kaytranada Remix)</a></div>
+
 ## ethereal
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A1508893447&color=%231980bf&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ethereal" title="ETHEREAL" target="_blank" style="color: #cccccc; text-decoration: none;">ETHEREAL</a> · <a href="https://soundcloud.com/ethereal/closer-2-u-feat-alexandria" title="Close 2 U feat. Alexandria" target="_blank" style="color: #cccccc; text-decoration: none;">Close 2 U feat. Alexandria</a></div>
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1238049089/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=2043026971/transparent=true/" seamless><a href="https://eezyworld.bandcamp.com/album/catalyst">Catalyst by ETHEREAL</a></iframe>
+
 ## liv.e
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A1097764879&color=%23426492&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/ohliveosun" title="liv.e" target="_blank" style="color: #cccccc; text-decoration: none;">liv.e</a> · <a href="https://soundcloud.com/ohliveosun/sets/couldnt-wait-to-tell-you-1" title="Couldn&#x27;t Wait To Tell You..." target="_blank" style="color: #cccccc; text-decoration: none;">Couldn&#x27;t Wait To Tell You...</a></div>
+
 ### GENA
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/8bb7VHElKp4?si=63G3xVS4Z0SN_ufj" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
 ## yaeji
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/soundcloud%253Atracks%253A593517825&color=%23426492&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/kraejiyaeji" title="Yaeji" target="_blank" style="color: #cccccc; text-decoration: none;">Yaeji</a> · <a href="https://soundcloud.com/kraejiyaeji/raingurl" title="Raingurl" target="_blank" style="color: #cccccc; text-decoration: none;">Raingurl</a></div>
@@ -291,7 +303,8 @@ a playlist by Oblivious Weep
 
 stumbled into this playlist during the search. a lot of great mixes here. no official connections so i didn't include in this post's playlist, but this is absolutely worth a listen as well.
 
-https://on.soundcloud.com/meeSxU1WokGhHKTNYF
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/soundcloud%253Aplaylists%253A1763970768&color=%23341c84&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/obliviousweep" title="Oblivious Weep" target="_blank" style="color: #cccccc; text-decoration: none;">Oblivious Weep</a> · <a href="https://soundcloud.com/obliviousweep/sets/kelelamix" title="RAVE:N The SoundCloud Remixes" target="_blank" style="color: #cccccc; text-decoration: none;">RAVE:N The SoundCloud Remixes</a></div>
+
 ---
 # closing notes
 
@@ -313,6 +326,7 @@ working on that myself,
 
 
 ![new avatar](https://freight.cargo.site/w/1500/q/75/i/5ec50bf1fff2a70a0ad538173f5617e56cff2227669d47e4cd928fc6fab01801/WARP405_Packshot_3000.jpg)
+
 [new avatar](https://www.kelela.co) by kelela, out july 10th
 
 thank you.
