@@ -97,7 +97,7 @@ social media apps/sites profit directly off of our attention, and they try their
 
 with that, i've stopped using elon's twitter entirely, alongside tiktok. these were my two social media vices for a long time (~7 years, at least my entire college career). the algorithms knew how to keep me around, and there's a lot of FOMO knowing that content still exists. it was an addiction. a lot of addiction advice will tell you to ween away from your vice or to use it in moderation instead, but knowing myself i needed to drop it cold turkey and fully commit. 
 
-of course with their being so many apps/sites and so many companies that exist to make money, its hard to escape. i use instagram still, but utilizing [Revanced](https://revanced.app) to focus my usage on connecting with my friends or getting inspiration. trying to do the same to youtube (i hate shorts and reels). 
+of course with there being so many apps/sites and so many companies that exist to make money, its hard to escape. i use instagram still, but utilizing [Revanced](https://revanced.app) to focus my usage on connecting with my friends or getting inspiration. trying to do the same to youtube (i hate shorts and reels). 
 
 still working on how to get my news lol. i think the solution is to find newsletters that i actually care about and subscribe to them. reddit works, but they're a bit too reddit-y on there for my tastes (i'm sure you know what i mean).
 
