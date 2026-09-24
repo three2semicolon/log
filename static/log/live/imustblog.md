@@ -38,9 +38,12 @@ i'm writing this post to remind myself that being "good" at this isn't the point
 
 i don't consider myself a "real" music producer, and yet i produce. similarly, i am not a writer, yet i will write.
 
-<div style="display: flex; gap: 10px;">
-  <img src="https://three2semicolon.github.io/log/static/visuals/img/life/folder_front.jpg" alt="front of folder" style="width: 50%; height: auto;">
-  <img src="https://three2semicolon.github.io/log/static/visuals/img/life/folder_back.jpg" alt="back of folder" style="width: 50%; height: auto;">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+  <img src="https://three2semicolon.github.io/log/static/visuals/img/life/folder_front.jpg" alt="front of folder" style="flex: 1 1 300px; max-width: 100%; height: auto; object-fit: cover;">
+
+  <img src="https://three2semicolon.github.io/log/static/visuals/img/life/folder_back.jpg" alt="back of folder" style="flex: 1 1 300px; max-width: 100%; height: auto; object-fit: cover;">
+
 </div>
 
 *pictures of my elementary school "writing folder", ft. various photos from my family's picture collection*
